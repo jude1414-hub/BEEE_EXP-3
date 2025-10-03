@@ -19,7 +19,6 @@ Quantity
 6	Wooden Board	-	1 No.
 7	Round block	-	1 No.
 
-
 Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
@@ -39,12 +38,28 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
 
-Tabulation:2
+
+
+
+
+
+
+Direct connection: CIRCUIT DIAGRAM: 
+![WhatsApp Image 2025-09-30 at 08 44 09_43c96db9](https://github.com/user-attachments/assets/dd579896-327d-40de-a1c9-7e3d70a86210)
+
+![WhatsApp Image 2025-09-23 at 08 39 38_45d9819c](https://github.com/user-attachments/assets/6d17ae6b-999a-4274-bf20-c0e4bfec9c30)
+
+	
+Cross connection: 
+
+CIRCUIT DIAGRAM:
+
+![WhatsApp Image 2025-09-30 at 08 44 09_0d3b7315](https://github.com/user-attachments/assets/747a4080-a7e6-48c2-8267-9027d05dd76b)
+
+![WhatsApp Image 2025-09-23 at 08 48 04_54682862](https://github.com/user-attachments/assets/5f1927a8-322b-4ed0-8790-cf578fe0786b)
+
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
