@@ -19,6 +19,7 @@ Quantity
 6	Wooden Board	-	1 No.
 7	Round block	-	1 No.
 
+
 Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
@@ -38,26 +39,23 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
+Direct connection: CIRCUIT DIAGRAM:
+
+<img width="1035" height="627" alt="image" src="https://github.com/user-attachments/assets/5f6932ad-c474-43fd-9893-294334123f32" />
 
 
+Circuit diagram and Tabulation:1
 
-
-
-
-
-Direct connection: CIRCUIT DIAGRAM: 
-![WhatsApp Image 2025-09-30 at 08 44 09_43c96db9](https://github.com/user-attachments/assets/dd579896-327d-40de-a1c9-7e3d70a86210)
-
-![WhatsApp Image 2025-09-23 at 08 39 38_45d9819c](https://github.com/user-attachments/assets/6d17ae6b-999a-4274-bf20-c0e4bfec9c30)
+![ex 3 dia1](https://github.com/user-attachments/assets/e4672093-1bc8-4c0e-95a1-4ea260f18d92)
 
 	
-Cross connection: 
+Cross connection: CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
+<img width="1020" height="580" alt="image" src="https://github.com/user-attachments/assets/15b7b1bd-e895-4ad2-b89f-8b6ed15890f9" />
 
-![WhatsApp Image 2025-09-30 at 08 44 09_0d3b7315](https://github.com/user-attachments/assets/747a4080-a7e6-48c2-8267-9027d05dd76b)
+Circuit diagram and Tabulation:2
 
-![WhatsApp Image 2025-09-23 at 08 48 04_54682862](https://github.com/user-attachments/assets/5f1927a8-322b-4ed0-8790-cf578fe0786b)
+![exp 3 dia2](https://github.com/user-attachments/assets/02c6db8b-8e3b-4d4e-a431-4356c563cf84)
 
 
 
